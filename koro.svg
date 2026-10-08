@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -4 200 230" width="200" height="230" role="img" aria-label="Koro">
+  <defs><clipPath id="bouche"><path d="M40,118 Q100,196 160,118 Q100,152 40,118 Z"/></clipPath></defs>
+  <ellipse cx="100" cy="218" rx="64" ry="7" fill="rgba(43,33,24,.10)"/>
+  <g transform="translate(100 112) scale(1.2) translate(-100 -112)">
+    <circle cx="100" cy="112" r="80" fill="#ffe94a" stroke="rgba(43,33,24,.55)" stroke-width="3"/>
+    <circle cx="74" cy="98" r="7" fill="#2b2118"/><circle cx="126" cy="98" r="7" fill="#2b2118"/>
+    <path d="M40,118 Q100,196 160,118 Q100,152 40,118 Z" fill="#fff" stroke="#2b2118" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M52,90 L52,200 M64,90 L64,200 M76,90 L76,200 M88,90 L88,200 M100,90 L100,200 M112,90 L112,200 M124,90 L124,200 M136,90 L136,200 M148,90 L148,200" clip-path="url(#bouche)" fill="none" stroke="#2b2118" stroke-width="2" stroke-linecap="round" opacity=".5"/>
+  </g>
+  <g transform="translate(100 31) scale(.72) translate(-100 -52)">
+    <path d="M100,52 L58,42 L58,30 Q100,22 142,30 L142,42 Z" fill="#2b2118"/>
+    <path d="M100,10 L172,30 L100,48 L28,30 Z" fill="#3b2f25" stroke="#1c150f" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M100,29 L150,34 L156,62" fill="none" stroke="#e0a800" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(156 62)" fill="#f0cf6e" stroke="#b38a2e" stroke-width="1.5">
+      <line x1="0" y1="0" x2="0" y2="20" stroke-width="2"/>
+      <ellipse cx="-4" cy="6" rx="3.5" ry="5.5" transform="rotate(-25 -4 6)"/><ellipse cx="4" cy="10" rx="3.5" ry="5.5" transform="rotate(25 4 10)"/>
+      <ellipse cx="-4" cy="14" rx="3.5" ry="5.5" transform="rotate(-25 -4 14)"/><ellipse cx="0" cy="2" rx="3" ry="5"/>
+    </g>
+  </g>
+</svg>
